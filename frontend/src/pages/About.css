@@ -1,0 +1,30 @@
+.sec-about{
+    color: #72619e;
+    text-align: center;
+    margin-top: 100px;
+}
+.sec-about1 .text h5,p,h6{
+    text-align: justify;
+}
+.sec-about1 .row{
+    margin-top:30px ;
+}
+.sec-about1 .text h5{
+    color: #72619e;
+}
+.sec-about h1{
+    color: black;
+}
+.sec-about1 h2{
+    text-align: center;
+    color:#72619e;
+}
+.sec-about1 .text h6{
+    text-align: justify;
+}
+.sec-about1 .text p{
+    text-align: justify;
+}
+.sec-about1{
+    margin-top: 50px;
+}

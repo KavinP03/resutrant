@@ -1,0 +1,21 @@
+.sec-menu .fd1 img{
+    width: 304px;
+    height:300px;
+    position: cover;
+}
+.sec-menu .blk{
+    height: 510px;
+}
+.sec-menu .fd1 button{
+    background-color: #72619e;
+    color: white;
+    border-radius: 2px;
+}
+.sec-menu{
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.sec-menu h1{
+    text-align: center;
+    color: black;
+}

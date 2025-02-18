@@ -1,0 +1,20 @@
+.sec-layer .last{
+    height: 520px;
+}
+.sec-layer .last img{
+   width: 305px;
+   height: 280px;
+}
+.sec-layer .last button{
+    background-color: #72619e;
+    color: white;
+    border-radius: 2px;
+}
+.sec-layer h1{
+    text-align: center;
+    color: black;
+}
+.sec-layer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

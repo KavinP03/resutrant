@@ -1,0 +1,126 @@
+.sec-two .bg picture img {
+    width: 100%;
+    height: 100vh;
+}
+
+.sec-two {
+    overflow: hidden;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.sec-two .content h2,
+h6 {
+    color: #72619e;
+}
+
+.sec-two .content p {
+    text-align: justify;
+}
+
+.sec-two .content h6 {
+    text-align: justify;
+}
+
+.sec-three .dir img {
+    width: 412px;
+    height: 300px;
+}
+
+.sec-three .card {
+    border: none;
+}
+.sec-three .dir h6{
+    text-align: center;
+}
+.sec-four .chef h6{
+    text-align: center;
+}
+.sec-three .dir h5,
+p,
+h6 {
+    text-align: center;
+}
+
+.sec-three h1 {
+    color: #72619e;
+    text-align: center;
+}
+
+.sec-three {
+    margin-top: 20px;
+}
+
+.sec-three .dir {
+    margin-top: 30px;
+}
+
+.sec-four h1 {
+    text-align: center;
+    color: #72619e;
+}
+
+.sec-four h2 {
+    color: black;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.sec-four .card {
+    border: none;
+}
+
+.sec-four .chef h5,
+p,
+h6 {
+    text-align: center;
+}
+
+.sec-five {
+    overflow: hidden;
+    margin-top: 50px;
+}
+
+.sec-five .ofr img {
+    width: 100%;
+    height: 100vh;
+}
+
+.sec-five .of .offer h2 {
+    padding-left: 30px;
+    padding-top: 280px;
+    color: #72619e;
+    font-size: 400%;
+    text-align: center;
+}
+
+.sec-five .of .offer p {
+    padding-left: 30px;
+    padding-top: 30px;
+    font-size: 150%;
+    color: black;
+    text-align: center;
+}
+
+.sec-six h1 {
+    color: #72619e;
+    text-align: center;
+}
+.sec-three .dir button{
+    text-align: center;
+    background-color: #72619e;
+    color: white;
+    border-radius: 2px;
+    margin-left: 150px;
+}
+.sec-four .chef button{
+    text-align: center;
+    background-color: #72619e;
+    color: white;
+    border-radius: 2px;
+    margin-left: 150px;
+}
+.sec-six {
+    margin-top: 100px;
+}
+
