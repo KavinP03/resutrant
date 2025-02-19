@@ -20,7 +20,10 @@
      color: black;
      border-bottom: none;
 }
-
+.sec-navbar .nav ul a{
+list-style-type: none;
+text-decoration: none;
+}
 .sec-navbar li{
     list-style: none;
     padding-left: 50px;
